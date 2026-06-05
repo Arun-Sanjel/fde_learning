@@ -15,3 +15,4 @@ def display_info(name, age):
 
 display()
 display_info("arun", 10)
+display_info("sanjel" , 11)
